@@ -1,0 +1,8 @@
+..................................................................       [100%]
+============================= slowest 5 durations =============================
+2.61s call     tests/test_engine.py::test_large_history_paged_and_batched[100001]
+0.32s call     tests/test_runtime.py::test_real_qthread_loop_runs_and_closes_without_network
+0.26s call     tests/test_engine.py::test_large_history_paged_and_batched[10000]
+0.11s call     tests/test_engine.py::test_stop_interrupts_flood_wait
+0.11s call     tests/test_login.py::test_login_cancel_interrupts_pending_request
+66 passed in 4.12s

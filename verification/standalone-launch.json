@@ -1,0 +1,10 @@
+{
+  "version": "1.0.1",
+  "exit_code": 0,
+  "path": "C:\\WINDOWS\\System32",
+  "isolated_exe_only": true,
+  "sha256": "b4118c5c8d8e71ef1b4761269cf44e5c6670fbd665f993923863e9496bcbc26d",
+  "python_home_removed": true,
+  "python_path_removed": true,
+  "qt_plugin_env_removed": true
+}
